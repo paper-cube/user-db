@@ -13,5 +13,5 @@
     "require": {
         "paper-cube/user": "*",
         "paper-cube/user-db-migration": "*"
-    },
+    }
 }
