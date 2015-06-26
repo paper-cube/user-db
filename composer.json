@@ -1,0 +1,17 @@
+{
+    "name": "paper-cube/user-db",
+    "description": "Yii 2 User model for module",
+    "keywords": ["yii2", "framework", "user module", "db", "pdo", "active record"],
+    "homepage": "https://github.com/paper-cube/user-db/wiki",
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/paper-cube/user-db/issues?state=open",
+        "wiki": "https://github.com/paper-cube/user-db/wiki",
+        "source": "https://github.com/paper-cube/user-db"
+    },
+    "require": {
+        "paper-cube/user": "*",
+        "paper-cube/user-db-migration": "*"
+    },
+}
